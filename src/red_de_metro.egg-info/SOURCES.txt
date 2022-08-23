@@ -1,0 +1,15 @@
+MANIFEST.in
+pyproject.toml
+setup.cfg
+setup.py
+src/red_de_metro/Conexiones.tsv
+src/red_de_metro/Estaciones.tsv
+src/red_de_metro/__init__.py
+src/red_de_metro/main.py
+src/red_de_metro.egg-info/PKG-INFO
+src/red_de_metro.egg-info/SOURCES.txt
+src/red_de_metro.egg-info/dependency_links.txt
+src/red_de_metro.egg-info/not-zip-safe
+src/red_de_metro.egg-info/requires.txt
+src/red_de_metro.egg-info/top_level.txt
+test/test_main.py

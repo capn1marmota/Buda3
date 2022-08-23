@@ -1,0 +1,2 @@
+networkx==2.8.6
+setuptools==65.2.0
