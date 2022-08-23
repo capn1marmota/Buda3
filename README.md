@@ -6,7 +6,7 @@ Simplemente edita los archivos especificados añadiendo los atributos indicados 
 ("Estacion" y "color" para Estaciones.tsv y "Origen" y "Destino" para Conexiones.tsv).
 Los archivos ya tienen una red modelada por defecto, asi que el programa está listo para utilizarse, solo ejecute "main.py" y 
 otorgue los parametros solicitados.
-Tanto "main.py" como "Estaciones.tsv" y "Conexiones.tsv" se encuentra en la carpeta src
+Tanto "main.py" como "Estaciones.tsv" y "Conexiones.tsv" se encuentran en la carpeta src. 
 El programa incluye
 configuraciones para testeos automaticos por medio de
 los modulos mypy, pytest y flake8
